@@ -35,5 +35,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'administrate', '>= 0.2.1'
   spec.add_dependency 'chartkick', '~> 3.0.0'
   spec.add_dependency 'groupdate', '~> 4.1.0'
-  spec.add_dependency 'rails', '>= 4.2', '< 6.0'
+  spec.add_dependency 'rails', '>= 4.2'
 end
